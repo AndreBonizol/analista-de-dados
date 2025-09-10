@@ -66,5 +66,7 @@ Compreender as causas do churn e segmentar os clientes com maior risco de cancel
 
 ---
 
-> 📝 **Nota**: Os dados utilizados são simulados para fins didáticos. A empresa fictícia "Preditiva Analytics" foi utilizada como cenário.  
-> Saiba mais sobre a Preditiva: [preditiva.ai](https://www.preditiva.ai/)
+📝 Nota: Este projeto foi desenvolvido com base em um case de estudo disponibilizado pela Preditiva Analytics, utilizando dados simulados do aplicativo fictício ToComFome. Todos os insights, análises e recomendações são aplicáveis a cenários reais de negócio, mas os dados em si têm fins exclusivamente didáticos.
+Saiba mais sobre a Preditiva: preditiva.ai 
+
+
