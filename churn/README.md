@@ -23,6 +23,15 @@ Compreender as causas do churn e segmentar os clientes com maior risco de cancel
 
 ---
 
+## 📁 Estrutura do Projeto
+
+- `dados.xlsx`: Planilha com os dados brutos e cálculos realizados
+- `dashboard.pbix`: Dashboard interativo no Power BI
+- `sql_queries.sql`: Consultas SQL utilizadas para extrair e transformar os dados
+- `artigo-medium.md`: Link para o post no Medium com análise completa
+
+---
+
 ## 🔗 Links
 
 - [Leia o artigo completo no Medium](https://medium.com/@andredepaulabonizol/an%C3%A1lise-de-churn-um-estudo-sobre-reten%C3%A7%C3%A3o-de-clientes-em-um-app-de-delivery-ee45dd0d64f9)
